@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9d9ny+VcdJot4LoCToqp+8MCUJHGe1EYpYRERzYLNm8zwYpW9shyMApioN4vlOBDjHICAR5u7JL+zn2esAYlw==",
+  "success": true,
+  "projectFilePath": "/Users/knuthi/Projects/PositionService/PositionService/PositionService.csproj",
+  "expectedPackageFiles": [
+    "/Users/knuthi/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.0.0/microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/swashbuckle.aspnetcore.newtonsoft/6.2.3/swashbuckle.aspnetcore.newtonsoft.6.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/system.net.http.json/3.2.0-preview3.20175.8/system.net.http.json.3.2.0-preview3.20175.8.nupkg.sha512",
+    "/Users/knuthi/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

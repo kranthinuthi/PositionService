@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A9F4ED73-61FA-4A88-9D92-B96704E79783}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PositionService/Biz/PositionManager.cs">
+    <Files>
+      <File FileName="PositionService/Controllers/PositionController.cs" Line="1" Column="1" />
+      <File FileName="PositionService/Biz/PositionManager.cs" Line="20" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PositionService" expanded="True">
+            <Node name="PositionService" expanded="True">
+              <Node name="Biz" expanded="True">
+                <Node name="PositionManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PositionService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
